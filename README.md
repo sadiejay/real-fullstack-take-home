@@ -1,4 +1,4 @@
-# Email Generator
+# Real Full Stack Take Home
 
 
 ## Table of contents
@@ -135,4 +135,4 @@ Run `yarn test:server` to run backend tests.
 
 ## Acknowledgments
 
-- 
+- VC community for support
